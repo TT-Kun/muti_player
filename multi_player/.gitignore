@@ -1,0 +1,34 @@
+# Qt项目构建文件
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+Makefile*
+moc_*.cpp
+moc_*.h
+moc_*.o
+qrc_*.cpp
+qrc_*.o
+ui_*.h
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.Debug
+*.Release
+
+# 编译输出目录
+debug/
+release/
+build/
+
+# Qt Creator临时文件
+.qtc_clangd/
+.qm/
+.cache/
+
+# 编辑器临时文件
+*~
+*.autosave
+.DS_Store

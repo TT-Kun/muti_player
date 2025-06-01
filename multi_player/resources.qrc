@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>sequential.svg</file>
+        <file>loop.svg</file>
+        <file>single-loop.svg</file>
+        <file>random.svg</file>
+        <file>player.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>file_for_read/ennergy.txt</file>
+        <file>file_for_read/genre.txt</file>
+        <file>file_for_read/http_yin.txt</file>
+        <file>file_for_read/http_av.txt</file>
+        <file>file_for_read/path.txt</file>
+    </qresource>
+</RCC>

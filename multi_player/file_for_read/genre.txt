@@ -1,0 +1,10 @@
+rock	46.5063
+pop	2.4624
+blues	2.2914
+country	1.7157
+jazz	1.2027
+hip-hop	0.7239
+reggae	0.6441
+classical	0.5358
+disco	0.4731
+monk	0.4503
