@@ -1,4 +1,4 @@
-#ifndef CLICKABLESLIDER_H
+﻿#ifndef CLICKABLESLIDER_H
 #define CLICKABLESLIDER_H
 
 #include <QSlider>
@@ -10,7 +10,7 @@ class ClickableSlider : public QSlider
     Q_OBJECT
 public:
     explicit ClickableSlider(QWidget *parent = nullptr) : QSlider(parent) {
-        setOrientation(Qt::Horizontal);  // 设置默认方向为水平
+        setOrientation(Qt::Horizontal);
     }
 
 protected:
@@ -25,4 +25,4 @@ protected:
     }
 };
 
-#endif // CLICKABLESLIDER_H
+#endif // CLICKABLESLIDER_H 
